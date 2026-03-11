@@ -1,14 +1,11 @@
-<title>Comic Sans</title>
-<style>
- body {
-  background-color: hotpink;
-   padding: 25px;
- }
+
  p {
   color: dodgerblue;
   font-size: 30px;
  }
 body {
-    font-family: 'FontName', sans-serif;
+    font-family: 'FontName', Comic-Sans;
 }
-
+h1 {
+	color: royal blue;
+}
